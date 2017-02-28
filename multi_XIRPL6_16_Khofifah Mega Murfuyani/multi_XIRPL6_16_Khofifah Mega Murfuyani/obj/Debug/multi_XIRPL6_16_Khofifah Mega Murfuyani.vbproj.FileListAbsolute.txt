@@ -1,0 +1,15 @@
+F:\DESKTOP\multi_XIRPL6_16_Khofifah Mega Murfuyani\multi_XIRPL6_16_Khofifah Mega Murfuyani\bin\Debug\multi_XIRPL6_16_Khofifah Mega Murfuyani.exe.config
+F:\DESKTOP\multi_XIRPL6_16_Khofifah Mega Murfuyani\multi_XIRPL6_16_Khofifah Mega Murfuyani\bin\Debug\multi_XIRPL6_16_Khofifah Mega Murfuyani.exe
+F:\DESKTOP\multi_XIRPL6_16_Khofifah Mega Murfuyani\multi_XIRPL6_16_Khofifah Mega Murfuyani\bin\Debug\multi_XIRPL6_16_Khofifah Mega Murfuyani.pdb
+F:\DESKTOP\multi_XIRPL6_16_Khofifah Mega Murfuyani\multi_XIRPL6_16_Khofifah Mega Murfuyani\bin\Debug\multi_XIRPL6_16_Khofifah Mega Murfuyani.xml
+F:\DESKTOP\multi_XIRPL6_16_Khofifah Mega Murfuyani\multi_XIRPL6_16_Khofifah Mega Murfuyani\obj\Debug\multi_XIRPL6_16_Khofifah_Mega_Murfuyani.Form1.resources
+F:\DESKTOP\multi_XIRPL6_16_Khofifah Mega Murfuyani\multi_XIRPL6_16_Khofifah Mega Murfuyani\obj\Debug\multi_XIRPL6_16_Khofifah_Mega_Murfuyani.Form2.resources
+F:\DESKTOP\multi_XIRPL6_16_Khofifah Mega Murfuyani\multi_XIRPL6_16_Khofifah Mega Murfuyani\obj\Debug\multi_XIRPL6_16_Khofifah_Mega_Murfuyani.Resources.resources
+F:\DESKTOP\multi_XIRPL6_16_Khofifah Mega Murfuyani\multi_XIRPL6_16_Khofifah Mega Murfuyani\obj\Debug\multi_XIRPL6_16_Khofifah Mega Murfuyani.vbproj.GenerateResource.Cache
+F:\DESKTOP\multi_XIRPL6_16_Khofifah Mega Murfuyani\multi_XIRPL6_16_Khofifah Mega Murfuyani\obj\Debug\multi_XIRPL6_16_Khofifah Mega Murfuyani.exe
+F:\DESKTOP\multi_XIRPL6_16_Khofifah Mega Murfuyani\multi_XIRPL6_16_Khofifah Mega Murfuyani\obj\Debug\multi_XIRPL6_16_Khofifah Mega Murfuyani.xml
+F:\DESKTOP\multi_XIRPL6_16_Khofifah Mega Murfuyani\multi_XIRPL6_16_Khofifah Mega Murfuyani\obj\Debug\multi_XIRPL6_16_Khofifah Mega Murfuyani.pdb
+F:\DESKTOP\multi_XIRPL6_16_Khofifah Mega Murfuyani\multi_XIRPL6_16_Khofifah Mega Murfuyani\obj\Debug\multi_XIRPL6_16_Khofifah_Mega_Murfuyani.Form3.resources
+F:\DESKTOP\multi_XIRPL6_16_Khofifah Mega Murfuyani\multi_XIRPL6_16_Khofifah Mega Murfuyani\obj\Debug\multi_XIRPL6_16_Khofifah_Mega_Murfuyani.Form4.resources
+F:\DESKTOP\multi_XIRPL6_16_Khofifah Mega Murfuyani\multi_XIRPL6_16_Khofifah Mega Murfuyani\obj\Debug\multi_XIRPL6_16_Khofifah_Mega_Murfuyani.SplashScreen1.resources
+F:\DESKTOP\multi_XIRPL6_16_Khofifah Mega Murfuyani\multi_XIRPL6_16_Khofifah Mega Murfuyani\obj\Debug\multi_XIRPL6_16_Khofifah_Mega_Murfuyani.Form5.resources

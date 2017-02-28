@@ -1,0 +1,10 @@
+D:\Kelas XI\Desktop\XIRPL6_32_Saadatul Sholehah\XIRPL6_32_Saadatul Sholehah\bin\Debug\XIRPL6_32_Saadatul Sholehah.exe.config
+D:\Kelas XI\Desktop\XIRPL6_32_Saadatul Sholehah\XIRPL6_32_Saadatul Sholehah\obj\Debug\XIRPL6_32_Saadatul_Sholehah.Form1.resources
+D:\Kelas XI\Desktop\XIRPL6_32_Saadatul Sholehah\XIRPL6_32_Saadatul Sholehah\obj\Debug\XIRPL6_32_Saadatul_Sholehah.Resources.resources
+D:\Kelas XI\Desktop\XIRPL6_32_Saadatul Sholehah\XIRPL6_32_Saadatul Sholehah\obj\Debug\XIRPL6_32_Saadatul Sholehah.vbproj.GenerateResource.Cache
+D:\Kelas XI\Desktop\XIRPL6_32_Saadatul Sholehah\XIRPL6_32_Saadatul Sholehah\bin\Debug\XIRPL6_32_Saadatul Sholehah.exe
+D:\Kelas XI\Desktop\XIRPL6_32_Saadatul Sholehah\XIRPL6_32_Saadatul Sholehah\bin\Debug\XIRPL6_32_Saadatul Sholehah.pdb
+D:\Kelas XI\Desktop\XIRPL6_32_Saadatul Sholehah\XIRPL6_32_Saadatul Sholehah\bin\Debug\XIRPL6_32_Saadatul Sholehah.xml
+D:\Kelas XI\Desktop\XIRPL6_32_Saadatul Sholehah\XIRPL6_32_Saadatul Sholehah\obj\Debug\XIRPL6_32_Saadatul Sholehah.exe
+D:\Kelas XI\Desktop\XIRPL6_32_Saadatul Sholehah\XIRPL6_32_Saadatul Sholehah\obj\Debug\XIRPL6_32_Saadatul Sholehah.xml
+D:\Kelas XI\Desktop\XIRPL6_32_Saadatul Sholehah\XIRPL6_32_Saadatul Sholehah\obj\Debug\XIRPL6_32_Saadatul Sholehah.pdb

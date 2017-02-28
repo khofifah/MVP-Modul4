@@ -1,0 +1,20 @@
+D:\Kelas XI\Desktop\XIRPL6_32_Saadatul Sholehah_3\XIRPL6_32_Saadatul Sholehah_3\bin\Debug\XIRPL6_32_Saadatul Sholehah_3.exe.config
+D:\Kelas XI\Desktop\XIRPL6_32_Saadatul Sholehah_3\XIRPL6_32_Saadatul Sholehah_3\obj\Debug\XIRPL6_32_Saadatul_Sholehah_3.Form1.resources
+D:\Kelas XI\Desktop\XIRPL6_32_Saadatul Sholehah_3\XIRPL6_32_Saadatul Sholehah_3\obj\Debug\XIRPL6_32_Saadatul_Sholehah_3.Resources.resources
+D:\Kelas XI\Desktop\XIRPL6_32_Saadatul Sholehah_3\XIRPL6_32_Saadatul Sholehah_3\obj\Debug\XIRPL6_32_Saadatul Sholehah_3.vbproj.GenerateResource.Cache
+D:\Kelas XI\Desktop\XIRPL6_32_Saadatul Sholehah_3\XIRPL6_32_Saadatul Sholehah_3\bin\Debug\XIRPL6_32_Saadatul Sholehah_3.exe
+D:\Kelas XI\Desktop\XIRPL6_32_Saadatul Sholehah_3\XIRPL6_32_Saadatul Sholehah_3\bin\Debug\XIRPL6_32_Saadatul Sholehah_3.pdb
+D:\Kelas XI\Desktop\XIRPL6_32_Saadatul Sholehah_3\XIRPL6_32_Saadatul Sholehah_3\bin\Debug\XIRPL6_32_Saadatul Sholehah_3.xml
+D:\Kelas XI\Desktop\XIRPL6_32_Saadatul Sholehah_3\XIRPL6_32_Saadatul Sholehah_3\obj\Debug\XIRPL6_32_Saadatul Sholehah_3.exe
+D:\Kelas XI\Desktop\XIRPL6_32_Saadatul Sholehah_3\XIRPL6_32_Saadatul Sholehah_3\obj\Debug\XIRPL6_32_Saadatul Sholehah_3.xml
+D:\Kelas XI\Desktop\XIRPL6_32_Saadatul Sholehah_3\XIRPL6_32_Saadatul Sholehah_3\obj\Debug\XIRPL6_32_Saadatul Sholehah_3.pdb
+F:\DESKTOP\Desktop\XIRPL6_32_Saadatul Sholehah_3\XIRPL6_32_Saadatul Sholehah_3\bin\Debug\XIRPL6_32_Saadatul Sholehah_3.exe.config
+F:\DESKTOP\Desktop\XIRPL6_32_Saadatul Sholehah_3\XIRPL6_32_Saadatul Sholehah_3\obj\Debug\XIRPL6_32_Saadatul Sholehah_3.exe
+F:\DESKTOP\Desktop\XIRPL6_32_Saadatul Sholehah_3\XIRPL6_32_Saadatul Sholehah_3\obj\Debug\XIRPL6_32_Saadatul Sholehah_3.xml
+F:\DESKTOP\Desktop\XIRPL6_32_Saadatul Sholehah_3\XIRPL6_32_Saadatul Sholehah_3\obj\Debug\XIRPL6_32_Saadatul Sholehah_3.pdb
+F:\DESKTOP\Desktop\XIRPL6_32_Saadatul Sholehah_3\XIRPL6_32_Saadatul Sholehah_3\bin\Debug\XIRPL6_32_Saadatul Sholehah_3.exe
+F:\DESKTOP\Desktop\XIRPL6_32_Saadatul Sholehah_3\XIRPL6_32_Saadatul Sholehah_3\bin\Debug\XIRPL6_32_Saadatul Sholehah_3.pdb
+F:\DESKTOP\Desktop\XIRPL6_32_Saadatul Sholehah_3\XIRPL6_32_Saadatul Sholehah_3\bin\Debug\XIRPL6_32_Saadatul Sholehah_3.xml
+F:\DESKTOP\Desktop\XIRPL6_32_Saadatul Sholehah_3\XIRPL6_32_Saadatul Sholehah_3\obj\Debug\XIRPL6_32_Saadatul_Sholehah_3.Form1.resources
+F:\DESKTOP\Desktop\XIRPL6_32_Saadatul Sholehah_3\XIRPL6_32_Saadatul Sholehah_3\obj\Debug\XIRPL6_32_Saadatul_Sholehah_3.Resources.resources
+F:\DESKTOP\Desktop\XIRPL6_32_Saadatul Sholehah_3\XIRPL6_32_Saadatul Sholehah_3\obj\Debug\XIRPL6_32_Saadatul Sholehah_3.vbproj.GenerateResource.Cache

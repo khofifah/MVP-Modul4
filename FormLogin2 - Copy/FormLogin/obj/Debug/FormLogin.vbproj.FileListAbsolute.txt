@@ -1,0 +1,27 @@
+F:\DESKTOP\FormLogin\FormLogin\bin\Debug\FormLogin.exe.config
+F:\DESKTOP\FormLogin\FormLogin\bin\Debug\FormLogin.exe
+F:\DESKTOP\FormLogin\FormLogin\bin\Debug\FormLogin.pdb
+F:\DESKTOP\FormLogin\FormLogin\bin\Debug\FormLogin.xml
+F:\DESKTOP\FormLogin\FormLogin\obj\Debug\FormLogin.Form1.resources
+F:\DESKTOP\FormLogin\FormLogin\obj\Debug\FormLogin.Resources.resources
+F:\DESKTOP\FormLogin\FormLogin\obj\Debug\FormLogin.vbproj.GenerateResource.Cache
+F:\DESKTOP\FormLogin\FormLogin\obj\Debug\FormLogin.exe
+F:\DESKTOP\FormLogin\FormLogin\obj\Debug\FormLogin.xml
+F:\DESKTOP\FormLogin\FormLogin\obj\Debug\FormLogin.pdb
+F:\DESKTOP\FormLogin\FormLogin\obj\Debug\FormLogin.SplashScreen1.resources
+F:\DESKTOP\FormLogin2\FormLogin\bin\Debug\FormLogin.exe.config
+F:\DESKTOP\FormLogin2\FormLogin\obj\Debug\FormLogin.exe
+F:\DESKTOP\FormLogin2\FormLogin\obj\Debug\FormLogin.xml
+F:\DESKTOP\FormLogin2\FormLogin\obj\Debug\FormLogin.pdb
+F:\DESKTOP\FormLogin2\FormLogin\bin\Debug\FormLogin.exe
+F:\DESKTOP\FormLogin2\FormLogin\bin\Debug\FormLogin.pdb
+F:\DESKTOP\FormLogin2\FormLogin\bin\Debug\FormLogin.xml
+F:\DESKTOP\FormLogin2\FormLogin\obj\Debug\FormLogin.Resources.resources
+F:\DESKTOP\FormLogin2\FormLogin\obj\Debug\FormLogin.SplashScreen1.resources
+F:\DESKTOP\FormLogin2\FormLogin\obj\Debug\FormLogin.vbproj.GenerateResource.Cache
+F:\DESKTOP\FormLogin2\FormLogin\obj\Debug\FormLogin.Form3.resources
+F:\DESKTOP\FormLogin2\FormLogin\obj\Debug\FormLogin.Form4.resources
+F:\DESKTOP\FormLogin2 - Copy\FormLogin\bin\Debug\FormLogin.exe.config
+F:\DESKTOP\FormLogin2 - Copy\FormLogin\obj\Debug\FormLogin.exe
+F:\DESKTOP\FormLogin2 - Copy\FormLogin\obj\Debug\FormLogin.xml
+F:\DESKTOP\FormLogin2 - Copy\FormLogin\obj\Debug\FormLogin.pdb

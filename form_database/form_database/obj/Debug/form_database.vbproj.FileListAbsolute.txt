@@ -1,0 +1,14 @@
+F:\DESKTOP\form_database\form_database\bin\Debug\form_database.exe.config
+F:\DESKTOP\form_database\form_database\bin\Debug\form_database.exe
+F:\DESKTOP\form_database\form_database\bin\Debug\form_database.pdb
+F:\DESKTOP\form_database\form_database\bin\Debug\form_database.xml
+F:\DESKTOP\form_database\form_database\obj\Debug\form_database.Resources.resources
+F:\DESKTOP\form_database\form_database\obj\Debug\form_database.vbproj.GenerateResource.Cache
+F:\DESKTOP\form_database\form_database\obj\Debug\form_database.exe
+F:\DESKTOP\form_database\form_database\obj\Debug\form_database.xml
+F:\DESKTOP\form_database\form_database\obj\Debug\form_database.pdb
+F:\DESKTOP\form_database\form_database\obj\Debug\form_database.Form3.resources
+F:\DESKTOP\form_database\form_database\bin\Debug\itextsharp.dll
+F:\DESKTOP\form_database\form_database\bin\Debug\itextsharp.pdfa.dll
+F:\DESKTOP\form_database\form_database\bin\Debug\itextsharp.xtra.dll
+F:\DESKTOP\form_database\form_database\obj\Debug\form_database.vbprojResolveAssemblyReference.cache

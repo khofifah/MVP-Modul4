@@ -1,0 +1,10 @@
+F:\DESKTOP\sorting\sorting\bin\Debug\sorting.exe.config
+F:\DESKTOP\sorting\sorting\bin\Debug\sorting.exe
+F:\DESKTOP\sorting\sorting\bin\Debug\sorting.pdb
+F:\DESKTOP\sorting\sorting\bin\Debug\sorting.xml
+F:\DESKTOP\sorting\sorting\obj\Debug\sorting.Form1.resources
+F:\DESKTOP\sorting\sorting\obj\Debug\sorting.Resources.resources
+F:\DESKTOP\sorting\sorting\obj\Debug\sorting.vbproj.GenerateResource.Cache
+F:\DESKTOP\sorting\sorting\obj\Debug\sorting.exe
+F:\DESKTOP\sorting\sorting\obj\Debug\sorting.xml
+F:\DESKTOP\sorting\sorting\obj\Debug\sorting.pdb

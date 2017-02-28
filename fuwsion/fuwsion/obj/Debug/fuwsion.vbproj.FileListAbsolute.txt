@@ -1,0 +1,11 @@
+F:\DESKTOP\fuwsion\fuwsion\bin\Debug\fuwsion.exe.config
+F:\DESKTOP\fuwsion\fuwsion\bin\Debug\fuwsion.exe
+F:\DESKTOP\fuwsion\fuwsion\bin\Debug\fuwsion.pdb
+F:\DESKTOP\fuwsion\fuwsion\bin\Debug\fuwsion.xml
+F:\DESKTOP\fuwsion\fuwsion\obj\Debug\fuwsion.Form1.resources
+F:\DESKTOP\fuwsion\fuwsion\obj\Debug\fuwsion.Resources.resources
+F:\DESKTOP\fuwsion\fuwsion\obj\Debug\fuwsion.vbproj.GenerateResource.Cache
+F:\DESKTOP\fuwsion\fuwsion\obj\Debug\fuwsion.exe
+F:\DESKTOP\fuwsion\fuwsion\obj\Debug\fuwsion.xml
+F:\DESKTOP\fuwsion\fuwsion\obj\Debug\fuwsion.pdb
+F:\DESKTOP\fuwsion\fuwsion\obj\Debug\fuwsion.Form2.resources

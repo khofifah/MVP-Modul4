@@ -1,0 +1,26 @@
+D:\Kelas XI\Desktop\Tugas Form Login 2\Tugas Form Login 2\bin\Debug\Tugas Form Login 2.exe.config
+D:\Kelas XI\Desktop\Tugas Form Login 2\Tugas Form Login 2\bin\Debug\Tugas Form Login 2.exe
+D:\Kelas XI\Desktop\Tugas Form Login 2\Tugas Form Login 2\bin\Debug\Tugas Form Login 2.pdb
+D:\Kelas XI\Desktop\Tugas Form Login 2\Tugas Form Login 2\bin\Debug\Tugas Form Login 2.xml
+D:\Kelas XI\Desktop\Tugas Form Login 2\Tugas Form Login 2\obj\Debug\Tugas_Form_Login_2.Form1.resources
+D:\Kelas XI\Desktop\Tugas Form Login 2\Tugas Form Login 2\obj\Debug\Tugas_Form_Login_2.Form2.resources
+D:\Kelas XI\Desktop\Tugas Form Login 2\Tugas Form Login 2\obj\Debug\Tugas_Form_Login_2.Resources.resources
+D:\Kelas XI\Desktop\Tugas Form Login 2\Tugas Form Login 2\obj\Debug\Tugas_Form_Login_2.SplashScreen1.resources
+D:\Kelas XI\Desktop\Tugas Form Login 2\Tugas Form Login 2\obj\Debug\Tugas Form Login 2.vbproj.GenerateResource.Cache
+D:\Kelas XI\Desktop\Tugas Form Login 2\Tugas Form Login 2\obj\Debug\Tugas Form Login 2.exe
+D:\Kelas XI\Desktop\Tugas Form Login 2\Tugas Form Login 2\obj\Debug\Tugas Form Login 2.xml
+D:\Kelas XI\Desktop\Tugas Form Login 2\Tugas Form Login 2\obj\Debug\Tugas Form Login 2.pdb
+D:\Kelas XI\Desktop\Tugas Form Login 2\Tugas Form Login 2\obj\Debug\Tugas_Form_Login_2.Form3.resources
+F:\DESKTOP\Tugas Form Login 2\Tugas Form Login 2\bin\Debug\Tugas Form Login 2.exe.config
+F:\DESKTOP\Tugas Form Login 2\Tugas Form Login 2\obj\Debug\Tugas Form Login 2.exe
+F:\DESKTOP\Tugas Form Login 2\Tugas Form Login 2\obj\Debug\Tugas Form Login 2.xml
+F:\DESKTOP\Tugas Form Login 2\Tugas Form Login 2\obj\Debug\Tugas Form Login 2.pdb
+F:\DESKTOP\Tugas Form Login 2\Tugas Form Login 2\bin\Debug\Tugas Form Login 2.exe
+F:\DESKTOP\Tugas Form Login 2\Tugas Form Login 2\bin\Debug\Tugas Form Login 2.pdb
+F:\DESKTOP\Tugas Form Login 2\Tugas Form Login 2\bin\Debug\Tugas Form Login 2.xml
+F:\DESKTOP\Tugas Form Login 2\Tugas Form Login 2\obj\Debug\Tugas_Form_Login_2.Form1.resources
+F:\DESKTOP\Tugas Form Login 2\Tugas Form Login 2\obj\Debug\Tugas_Form_Login_2.Form2.resources
+F:\DESKTOP\Tugas Form Login 2\Tugas Form Login 2\obj\Debug\Tugas_Form_Login_2.Form3.resources
+F:\DESKTOP\Tugas Form Login 2\Tugas Form Login 2\obj\Debug\Tugas_Form_Login_2.Resources.resources
+F:\DESKTOP\Tugas Form Login 2\Tugas Form Login 2\obj\Debug\Tugas_Form_Login_2.SplashScreen1.resources
+F:\DESKTOP\Tugas Form Login 2\Tugas Form Login 2\obj\Debug\Tugas Form Login 2.vbproj.GenerateResource.Cache

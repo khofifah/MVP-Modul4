@@ -1,0 +1,40 @@
+E:\TELKOMXI\DESKTOP\Modul VB\Form3\Form3\bin\Debug\Form3.exe.config
+E:\TELKOMXI\DESKTOP\Modul VB\Form3\Form3\bin\Debug\Form3.exe
+E:\TELKOMXI\DESKTOP\Modul VB\Form3\Form3\bin\Debug\Form3.pdb
+E:\TELKOMXI\DESKTOP\Modul VB\Form3\Form3\bin\Debug\Form3.xml
+E:\TELKOMXI\DESKTOP\Modul VB\Form3\Form3\obj\Debug\Form3.Form1.resources
+E:\TELKOMXI\DESKTOP\Modul VB\Form3\Form3\obj\Debug\Form3.Resources.resources
+E:\TELKOMXI\DESKTOP\Modul VB\Form3\Form3\obj\Debug\Form3.vbproj.GenerateResource.Cache
+E:\TELKOMXI\DESKTOP\Modul VB\Form3\Form3\obj\Debug\Form3.exe
+E:\TELKOMXI\DESKTOP\Modul VB\Form3\Form3\obj\Debug\Form3.xml
+E:\TELKOMXI\DESKTOP\Modul VB\Form3\Form3\obj\Debug\Form3.pdb
+I:\Form3\Form3\bin\Debug\Form3.exe.config
+I:\Form3\Form3\obj\Debug\Form3.exe
+I:\Form3\Form3\obj\Debug\Form3.xml
+I:\Form3\Form3\obj\Debug\Form3.pdb
+I:\Form3\Form3\bin\Debug\Form3.exe
+I:\Form3\Form3\bin\Debug\Form3.pdb
+I:\Form3\Form3\bin\Debug\Form3.xml
+I:\Form3\Form3\obj\Debug\Form3.Form1.resources
+I:\Form3\Form3\obj\Debug\Form3.Resources.resources
+I:\Form3\Form3\obj\Debug\Form3.vbproj.GenerateResource.Cache
+E:\Form3\Form3\bin\Debug\Form3.exe.config
+E:\Form3\Form3\obj\Debug\Form3.exe
+E:\Form3\Form3\obj\Debug\Form3.xml
+E:\Form3\Form3\obj\Debug\Form3.pdb
+E:\Form3\Form3\bin\Debug\Form3.exe
+E:\Form3\Form3\bin\Debug\Form3.pdb
+E:\Form3\Form3\bin\Debug\Form3.xml
+E:\Form3\Form3\obj\Debug\Form3.Form1.resources
+E:\Form3\Form3\obj\Debug\Form3.Resources.resources
+E:\Form3\Form3\obj\Debug\Form3.vbproj.GenerateResource.Cache
+F:\DESKTOP\Form3\Form3\bin\Debug\Form3.exe.config
+F:\DESKTOP\Form3\Form3\obj\Debug\Form3.exe
+F:\DESKTOP\Form3\Form3\obj\Debug\Form3.xml
+F:\DESKTOP\Form3\Form3\obj\Debug\Form3.pdb
+F:\DESKTOP\Form3\Form3\bin\Debug\Form3.exe
+F:\DESKTOP\Form3\Form3\bin\Debug\Form3.pdb
+F:\DESKTOP\Form3\Form3\bin\Debug\Form3.xml
+F:\DESKTOP\Form3\Form3\obj\Debug\Form3.Form1.resources
+F:\DESKTOP\Form3\Form3\obj\Debug\Form3.Resources.resources
+F:\DESKTOP\Form3\Form3\obj\Debug\Form3.vbproj.GenerateResource.Cache

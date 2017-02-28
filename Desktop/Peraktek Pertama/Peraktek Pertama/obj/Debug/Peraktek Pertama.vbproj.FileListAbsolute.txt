@@ -1,0 +1,20 @@
+D:\Kelas XI\Desktop\Peraktek Pertama\Peraktek Pertama\bin\Debug\Peraktek Pertama.exe.config
+D:\Kelas XI\Desktop\Peraktek Pertama\Peraktek Pertama\bin\Debug\Peraktek Pertama.exe
+D:\Kelas XI\Desktop\Peraktek Pertama\Peraktek Pertama\bin\Debug\Peraktek Pertama.pdb
+D:\Kelas XI\Desktop\Peraktek Pertama\Peraktek Pertama\bin\Debug\Peraktek Pertama.xml
+D:\Kelas XI\Desktop\Peraktek Pertama\Peraktek Pertama\obj\Debug\Peraktek_Pertama.Form1.resources
+D:\Kelas XI\Desktop\Peraktek Pertama\Peraktek Pertama\obj\Debug\Peraktek_Pertama.Resources.resources
+D:\Kelas XI\Desktop\Peraktek Pertama\Peraktek Pertama\obj\Debug\Peraktek Pertama.vbproj.GenerateResource.Cache
+D:\Kelas XI\Desktop\Peraktek Pertama\Peraktek Pertama\obj\Debug\Peraktek Pertama.exe
+D:\Kelas XI\Desktop\Peraktek Pertama\Peraktek Pertama\obj\Debug\Peraktek Pertama.xml
+D:\Kelas XI\Desktop\Peraktek Pertama\Peraktek Pertama\obj\Debug\Peraktek Pertama.pdb
+F:\DESKTOP\Desktop\Peraktek Pertama\Peraktek Pertama\bin\Debug\Peraktek Pertama.exe.config
+F:\DESKTOP\Desktop\Peraktek Pertama\Peraktek Pertama\obj\Debug\Peraktek Pertama.exe
+F:\DESKTOP\Desktop\Peraktek Pertama\Peraktek Pertama\obj\Debug\Peraktek Pertama.xml
+F:\DESKTOP\Desktop\Peraktek Pertama\Peraktek Pertama\obj\Debug\Peraktek Pertama.pdb
+F:\DESKTOP\Desktop\Peraktek Pertama\Peraktek Pertama\bin\Debug\Peraktek Pertama.exe
+F:\DESKTOP\Desktop\Peraktek Pertama\Peraktek Pertama\bin\Debug\Peraktek Pertama.pdb
+F:\DESKTOP\Desktop\Peraktek Pertama\Peraktek Pertama\bin\Debug\Peraktek Pertama.xml
+F:\DESKTOP\Desktop\Peraktek Pertama\Peraktek Pertama\obj\Debug\Peraktek_Pertama.Form1.resources
+F:\DESKTOP\Desktop\Peraktek Pertama\Peraktek Pertama\obj\Debug\Peraktek_Pertama.Resources.resources
+F:\DESKTOP\Desktop\Peraktek Pertama\Peraktek Pertama\obj\Debug\Peraktek Pertama.vbproj.GenerateResource.Cache
