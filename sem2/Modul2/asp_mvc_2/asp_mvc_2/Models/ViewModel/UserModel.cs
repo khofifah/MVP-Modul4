@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.ComponentModel.DataAnnotations;
 
-namespace asp_mvc_2.Models.ViewModel
+namespace Asp_mvc_2.Models.ViewModel
 {
     public class UserSignUpView
     {
@@ -26,7 +26,6 @@ namespace asp_mvc_2.Models.ViewModel
         public string LastName { get; set; }
         public string Gender { get; set; }
     }
-
     public class UserLoginView
     {
         [Key]

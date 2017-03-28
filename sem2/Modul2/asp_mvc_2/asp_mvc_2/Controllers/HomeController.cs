@@ -5,11 +5,10 @@ using System.Web;
 using System.Web.Mvc;
 using Asp_mvc_2.Security;
 
-namespace asp_mvc_2.Controllers
+namespace Asp_mvc_2.Controllers
 {
     public class HomeController : Controller
     {
-        // GET: Home
         public ActionResult Index()
         {
             return View();

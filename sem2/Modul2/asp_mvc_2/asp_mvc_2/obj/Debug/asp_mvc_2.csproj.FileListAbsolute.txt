@@ -1,100 +1,100 @@
-F:\DESKTOP\sem2\Modul1\asp_mvc_2\asp_mvc_2\bin\ApplicationInsights.config
-F:\DESKTOP\sem2\Modul1\asp_mvc_2\asp_mvc_2\bin\roslyn\csc.exe
-F:\DESKTOP\sem2\Modul1\asp_mvc_2\asp_mvc_2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-F:\DESKTOP\sem2\Modul1\asp_mvc_2\asp_mvc_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-F:\DESKTOP\sem2\Modul1\asp_mvc_2\asp_mvc_2\bin\roslyn\Microsoft.CodeAnalysis.dll
-F:\DESKTOP\sem2\Modul1\asp_mvc_2\asp_mvc_2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-F:\DESKTOP\sem2\Modul1\asp_mvc_2\asp_mvc_2\bin\roslyn\Microsoft.CSharp.Core.targets
-F:\DESKTOP\sem2\Modul1\asp_mvc_2\asp_mvc_2\bin\roslyn\Microsoft.VisualBasic.Core.targets
-F:\DESKTOP\sem2\Modul1\asp_mvc_2\asp_mvc_2\bin\roslyn\System.Collections.Immutable.dll
-F:\DESKTOP\sem2\Modul1\asp_mvc_2\asp_mvc_2\bin\roslyn\System.Reflection.Metadata.dll
-F:\DESKTOP\sem2\Modul1\asp_mvc_2\asp_mvc_2\bin\roslyn\vbc.exe
-F:\DESKTOP\sem2\Modul1\asp_mvc_2\asp_mvc_2\bin\roslyn\VBCSCompiler.exe
-F:\DESKTOP\sem2\Modul1\asp_mvc_2\asp_mvc_2\bin\roslyn\VBCSCompiler.exe.config
-F:\DESKTOP\sem2\Modul1\asp_mvc_2\asp_mvc_2\bin\asp_mvc_2.dll.config
-F:\DESKTOP\sem2\Modul1\asp_mvc_2\asp_mvc_2\bin\asp_mvc_2.dll
-F:\DESKTOP\sem2\Modul1\asp_mvc_2\asp_mvc_2\bin\asp_mvc_2.pdb
-F:\DESKTOP\sem2\Modul1\asp_mvc_2\asp_mvc_2\bin\EntityFramework.dll
-F:\DESKTOP\sem2\Modul1\asp_mvc_2\asp_mvc_2\bin\EntityFramework.SqlServer.dll
-F:\DESKTOP\sem2\Modul1\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.Agent.Intercept.dll
-F:\DESKTOP\sem2\Modul1\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.DependencyCollector.dll
-F:\DESKTOP\sem2\Modul1\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.PerfCounterCollector.dll
-F:\DESKTOP\sem2\Modul1\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.ServerTelemetryChannel.dll
-F:\DESKTOP\sem2\Modul1\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.Web.dll
-F:\DESKTOP\sem2\Modul1\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.WindowsServer.dll
-F:\DESKTOP\sem2\Modul1\asp_mvc_2\asp_mvc_2\bin\Microsoft.ApplicationInsights.dll
-F:\DESKTOP\sem2\Modul1\asp_mvc_2\asp_mvc_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-F:\DESKTOP\sem2\Modul1\asp_mvc_2\asp_mvc_2\bin\Microsoft.Web.Infrastructure.dll
-F:\DESKTOP\sem2\Modul1\asp_mvc_2\asp_mvc_2\bin\System.Web.Helpers.dll
-F:\DESKTOP\sem2\Modul1\asp_mvc_2\asp_mvc_2\bin\System.Web.Mvc.dll
-F:\DESKTOP\sem2\Modul1\asp_mvc_2\asp_mvc_2\bin\System.Web.Razor.dll
-F:\DESKTOP\sem2\Modul1\asp_mvc_2\asp_mvc_2\bin\System.Web.Webpages.Deployment.dll
-F:\DESKTOP\sem2\Modul1\asp_mvc_2\asp_mvc_2\bin\System.Web.Webpages.dll
-F:\DESKTOP\sem2\Modul1\asp_mvc_2\asp_mvc_2\bin\System.Web.Webpages.Razor.dll
-F:\DESKTOP\sem2\Modul1\asp_mvc_2\asp_mvc_2\bin\EntityFramework.xml
-F:\DESKTOP\sem2\Modul1\asp_mvc_2\asp_mvc_2\bin\EntityFramework.SqlServer.xml
-F:\DESKTOP\sem2\Modul1\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.DependencyCollector.xml
-F:\DESKTOP\sem2\Modul1\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.ServerTelemetryChannel.xml
-F:\DESKTOP\sem2\Modul1\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.Web.xml
-F:\DESKTOP\sem2\Modul1\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.WindowsServer.xml
-F:\DESKTOP\sem2\Modul1\asp_mvc_2\asp_mvc_2\bin\Microsoft.ApplicationInsights.xml
-F:\DESKTOP\sem2\Modul1\asp_mvc_2\asp_mvc_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-F:\DESKTOP\sem2\Modul1\asp_mvc_2\asp_mvc_2\bin\System.Web.Razor.xml
-F:\DESKTOP\sem2\Modul1\asp_mvc_2\asp_mvc_2\bin\System.Web.Webpages.xml
-F:\DESKTOP\sem2\Modul1\asp_mvc_2\asp_mvc_2\bin\System.Web.Webpages.Deployment.xml
-F:\DESKTOP\sem2\Modul1\asp_mvc_2\asp_mvc_2\bin\System.Web.Webpages.Razor.xml
-F:\DESKTOP\sem2\Modul1\asp_mvc_2\asp_mvc_2\bin\System.Web.Helpers.xml
-F:\DESKTOP\sem2\Modul1\asp_mvc_2\asp_mvc_2\bin\System.Web.Mvc.xml
-F:\DESKTOP\sem2\Modul1\asp_mvc_2\asp_mvc_2\obj\Debug\asp_mvc_2.csprojResolveAssemblyReference.cache
-F:\DESKTOP\sem2\Modul1\asp_mvc_2\asp_mvc_2\obj\Debug\asp_mvc_2.dll
-F:\DESKTOP\sem2\Modul1\asp_mvc_2\asp_mvc_2\obj\Debug\asp_mvc_2.pdb
-F:\DESKTOP\sem2\Modul2\asp_mvc_2\asp_mvc_2\bin\ApplicationInsights.config
-F:\DESKTOP\sem2\Modul2\asp_mvc_2\asp_mvc_2\bin\roslyn\csc.exe
-F:\DESKTOP\sem2\Modul2\asp_mvc_2\asp_mvc_2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-F:\DESKTOP\sem2\Modul2\asp_mvc_2\asp_mvc_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-F:\DESKTOP\sem2\Modul2\asp_mvc_2\asp_mvc_2\bin\roslyn\Microsoft.CodeAnalysis.dll
-F:\DESKTOP\sem2\Modul2\asp_mvc_2\asp_mvc_2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-F:\DESKTOP\sem2\Modul2\asp_mvc_2\asp_mvc_2\bin\roslyn\Microsoft.CSharp.Core.targets
-F:\DESKTOP\sem2\Modul2\asp_mvc_2\asp_mvc_2\bin\roslyn\Microsoft.VisualBasic.Core.targets
-F:\DESKTOP\sem2\Modul2\asp_mvc_2\asp_mvc_2\bin\roslyn\System.Collections.Immutable.dll
-F:\DESKTOP\sem2\Modul2\asp_mvc_2\asp_mvc_2\bin\roslyn\System.Reflection.Metadata.dll
-F:\DESKTOP\sem2\Modul2\asp_mvc_2\asp_mvc_2\bin\roslyn\vbc.exe
-F:\DESKTOP\sem2\Modul2\asp_mvc_2\asp_mvc_2\bin\roslyn\VBCSCompiler.exe
-F:\DESKTOP\sem2\Modul2\asp_mvc_2\asp_mvc_2\bin\roslyn\VBCSCompiler.exe.config
-F:\DESKTOP\sem2\Modul2\asp_mvc_2\asp_mvc_2\bin\asp_mvc_2.dll.config
-F:\DESKTOP\sem2\Modul2\asp_mvc_2\asp_mvc_2\bin\asp_mvc_2.dll
-F:\DESKTOP\sem2\Modul2\asp_mvc_2\asp_mvc_2\bin\asp_mvc_2.pdb
-F:\DESKTOP\sem2\Modul2\asp_mvc_2\asp_mvc_2\bin\EntityFramework.dll
-F:\DESKTOP\sem2\Modul2\asp_mvc_2\asp_mvc_2\bin\EntityFramework.SqlServer.dll
-F:\DESKTOP\sem2\Modul2\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.Agent.Intercept.dll
-F:\DESKTOP\sem2\Modul2\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.DependencyCollector.dll
-F:\DESKTOP\sem2\Modul2\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.PerfCounterCollector.dll
-F:\DESKTOP\sem2\Modul2\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.ServerTelemetryChannel.dll
-F:\DESKTOP\sem2\Modul2\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.Web.dll
-F:\DESKTOP\sem2\Modul2\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.WindowsServer.dll
-F:\DESKTOP\sem2\Modul2\asp_mvc_2\asp_mvc_2\bin\Microsoft.ApplicationInsights.dll
-F:\DESKTOP\sem2\Modul2\asp_mvc_2\asp_mvc_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-F:\DESKTOP\sem2\Modul2\asp_mvc_2\asp_mvc_2\bin\Microsoft.Web.Infrastructure.dll
-F:\DESKTOP\sem2\Modul2\asp_mvc_2\asp_mvc_2\bin\System.Web.Helpers.dll
-F:\DESKTOP\sem2\Modul2\asp_mvc_2\asp_mvc_2\bin\System.Web.Mvc.dll
-F:\DESKTOP\sem2\Modul2\asp_mvc_2\asp_mvc_2\bin\System.Web.Razor.dll
-F:\DESKTOP\sem2\Modul2\asp_mvc_2\asp_mvc_2\bin\System.Web.Webpages.Deployment.dll
-F:\DESKTOP\sem2\Modul2\asp_mvc_2\asp_mvc_2\bin\System.Web.Webpages.dll
-F:\DESKTOP\sem2\Modul2\asp_mvc_2\asp_mvc_2\bin\System.Web.Webpages.Razor.dll
-F:\DESKTOP\sem2\Modul2\asp_mvc_2\asp_mvc_2\bin\EntityFramework.xml
-F:\DESKTOP\sem2\Modul2\asp_mvc_2\asp_mvc_2\bin\EntityFramework.SqlServer.xml
-F:\DESKTOP\sem2\Modul2\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.DependencyCollector.xml
-F:\DESKTOP\sem2\Modul2\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.ServerTelemetryChannel.xml
-F:\DESKTOP\sem2\Modul2\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.Web.xml
-F:\DESKTOP\sem2\Modul2\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.WindowsServer.xml
-F:\DESKTOP\sem2\Modul2\asp_mvc_2\asp_mvc_2\bin\Microsoft.ApplicationInsights.xml
-F:\DESKTOP\sem2\Modul2\asp_mvc_2\asp_mvc_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-F:\DESKTOP\sem2\Modul2\asp_mvc_2\asp_mvc_2\bin\System.Web.Razor.xml
-F:\DESKTOP\sem2\Modul2\asp_mvc_2\asp_mvc_2\bin\System.Web.Webpages.xml
-F:\DESKTOP\sem2\Modul2\asp_mvc_2\asp_mvc_2\bin\System.Web.Webpages.Deployment.xml
-F:\DESKTOP\sem2\Modul2\asp_mvc_2\asp_mvc_2\bin\System.Web.Webpages.Razor.xml
-F:\DESKTOP\sem2\Modul2\asp_mvc_2\asp_mvc_2\bin\System.Web.Helpers.xml
-F:\DESKTOP\sem2\Modul2\asp_mvc_2\asp_mvc_2\bin\System.Web.Mvc.xml
-F:\DESKTOP\sem2\Modul2\asp_mvc_2\asp_mvc_2\obj\Debug\asp_mvc_2.csprojResolveAssemblyReference.cache
-F:\DESKTOP\sem2\Modul2\asp_mvc_2\asp_mvc_2\obj\Debug\asp_mvc_2.dll
-F:\DESKTOP\sem2\Modul2\asp_mvc_2\asp_mvc_2\obj\Debug\asp_mvc_2.pdb
+E:\DESKTOP\sem2\Modul ASP MVC\Modul1\Asp_mvc_2\Asp_mvc_2\bin\ApplicationInsights.config
+E:\DESKTOP\sem2\Modul ASP MVC\Modul1\Asp_mvc_2\Asp_mvc_2\bin\roslyn\csc.exe
+E:\DESKTOP\sem2\Modul ASP MVC\Modul1\Asp_mvc_2\Asp_mvc_2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DESKTOP\sem2\Modul ASP MVC\Modul1\Asp_mvc_2\Asp_mvc_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DESKTOP\sem2\Modul ASP MVC\Modul1\Asp_mvc_2\Asp_mvc_2\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DESKTOP\sem2\Modul ASP MVC\Modul1\Asp_mvc_2\Asp_mvc_2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DESKTOP\sem2\Modul ASP MVC\Modul1\Asp_mvc_2\Asp_mvc_2\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DESKTOP\sem2\Modul ASP MVC\Modul1\Asp_mvc_2\Asp_mvc_2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DESKTOP\sem2\Modul ASP MVC\Modul1\Asp_mvc_2\Asp_mvc_2\bin\roslyn\System.Collections.Immutable.dll
+E:\DESKTOP\sem2\Modul ASP MVC\Modul1\Asp_mvc_2\Asp_mvc_2\bin\roslyn\System.Reflection.Metadata.dll
+E:\DESKTOP\sem2\Modul ASP MVC\Modul1\Asp_mvc_2\Asp_mvc_2\bin\roslyn\vbc.exe
+E:\DESKTOP\sem2\Modul ASP MVC\Modul1\Asp_mvc_2\Asp_mvc_2\bin\roslyn\VBCSCompiler.exe
+E:\DESKTOP\sem2\Modul ASP MVC\Modul1\Asp_mvc_2\Asp_mvc_2\bin\roslyn\VBCSCompiler.exe.config
+E:\DESKTOP\sem2\Modul ASP MVC\Modul1\Asp_mvc_2\Asp_mvc_2\bin\Asp_mvc_2.dll.config
+E:\DESKTOP\sem2\Modul ASP MVC\Modul1\Asp_mvc_2\Asp_mvc_2\bin\Asp_mvc_2.dll
+E:\DESKTOP\sem2\Modul ASP MVC\Modul1\Asp_mvc_2\Asp_mvc_2\bin\Asp_mvc_2.pdb
+E:\DESKTOP\sem2\Modul ASP MVC\Modul1\Asp_mvc_2\Asp_mvc_2\bin\EntityFramework.dll
+E:\DESKTOP\sem2\Modul ASP MVC\Modul1\Asp_mvc_2\Asp_mvc_2\bin\EntityFramework.SqlServer.dll
+E:\DESKTOP\sem2\Modul ASP MVC\Modul1\Asp_mvc_2\Asp_mvc_2\bin\Microsoft.AI.Agent.Intercept.dll
+E:\DESKTOP\sem2\Modul ASP MVC\Modul1\Asp_mvc_2\Asp_mvc_2\bin\Microsoft.AI.DependencyCollector.dll
+E:\DESKTOP\sem2\Modul ASP MVC\Modul1\Asp_mvc_2\Asp_mvc_2\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\DESKTOP\sem2\Modul ASP MVC\Modul1\Asp_mvc_2\Asp_mvc_2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\DESKTOP\sem2\Modul ASP MVC\Modul1\Asp_mvc_2\Asp_mvc_2\bin\Microsoft.AI.Web.dll
+E:\DESKTOP\sem2\Modul ASP MVC\Modul1\Asp_mvc_2\Asp_mvc_2\bin\Microsoft.AI.WindowsServer.dll
+E:\DESKTOP\sem2\Modul ASP MVC\Modul1\Asp_mvc_2\Asp_mvc_2\bin\Microsoft.ApplicationInsights.dll
+E:\DESKTOP\sem2\Modul ASP MVC\Modul1\Asp_mvc_2\Asp_mvc_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DESKTOP\sem2\Modul ASP MVC\Modul1\Asp_mvc_2\Asp_mvc_2\bin\Microsoft.Web.Infrastructure.dll
+E:\DESKTOP\sem2\Modul ASP MVC\Modul1\Asp_mvc_2\Asp_mvc_2\bin\System.Web.Helpers.dll
+E:\DESKTOP\sem2\Modul ASP MVC\Modul1\Asp_mvc_2\Asp_mvc_2\bin\System.Web.Mvc.dll
+E:\DESKTOP\sem2\Modul ASP MVC\Modul1\Asp_mvc_2\Asp_mvc_2\bin\System.Web.Razor.dll
+E:\DESKTOP\sem2\Modul ASP MVC\Modul1\Asp_mvc_2\Asp_mvc_2\bin\System.Web.Webpages.Deployment.dll
+E:\DESKTOP\sem2\Modul ASP MVC\Modul1\Asp_mvc_2\Asp_mvc_2\bin\System.Web.Webpages.dll
+E:\DESKTOP\sem2\Modul ASP MVC\Modul1\Asp_mvc_2\Asp_mvc_2\bin\System.Web.Webpages.Razor.dll
+E:\DESKTOP\sem2\Modul ASP MVC\Modul1\Asp_mvc_2\Asp_mvc_2\bin\EntityFramework.xml
+E:\DESKTOP\sem2\Modul ASP MVC\Modul1\Asp_mvc_2\Asp_mvc_2\bin\EntityFramework.SqlServer.xml
+E:\DESKTOP\sem2\Modul ASP MVC\Modul1\Asp_mvc_2\Asp_mvc_2\bin\Microsoft.AI.DependencyCollector.xml
+E:\DESKTOP\sem2\Modul ASP MVC\Modul1\Asp_mvc_2\Asp_mvc_2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\DESKTOP\sem2\Modul ASP MVC\Modul1\Asp_mvc_2\Asp_mvc_2\bin\Microsoft.AI.Web.xml
+E:\DESKTOP\sem2\Modul ASP MVC\Modul1\Asp_mvc_2\Asp_mvc_2\bin\Microsoft.AI.WindowsServer.xml
+E:\DESKTOP\sem2\Modul ASP MVC\Modul1\Asp_mvc_2\Asp_mvc_2\bin\Microsoft.ApplicationInsights.xml
+E:\DESKTOP\sem2\Modul ASP MVC\Modul1\Asp_mvc_2\Asp_mvc_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DESKTOP\sem2\Modul ASP MVC\Modul1\Asp_mvc_2\Asp_mvc_2\bin\System.Web.Razor.xml
+E:\DESKTOP\sem2\Modul ASP MVC\Modul1\Asp_mvc_2\Asp_mvc_2\bin\System.Web.Webpages.xml
+E:\DESKTOP\sem2\Modul ASP MVC\Modul1\Asp_mvc_2\Asp_mvc_2\bin\System.Web.Webpages.Deployment.xml
+E:\DESKTOP\sem2\Modul ASP MVC\Modul1\Asp_mvc_2\Asp_mvc_2\bin\System.Web.Webpages.Razor.xml
+E:\DESKTOP\sem2\Modul ASP MVC\Modul1\Asp_mvc_2\Asp_mvc_2\bin\System.Web.Helpers.xml
+E:\DESKTOP\sem2\Modul ASP MVC\Modul1\Asp_mvc_2\Asp_mvc_2\bin\System.Web.Mvc.xml
+E:\DESKTOP\sem2\Modul ASP MVC\Modul1\Asp_mvc_2\Asp_mvc_2\obj\Debug\Asp_mvc_2.csprojResolveAssemblyReference.cache
+E:\DESKTOP\sem2\Modul ASP MVC\Modul1\Asp_mvc_2\Asp_mvc_2\obj\Debug\Asp_mvc_2.dll
+E:\DESKTOP\sem2\Modul ASP MVC\Modul1\Asp_mvc_2\Asp_mvc_2\obj\Debug\Asp_mvc_2.pdb
+E:\DESKTOP\sem2\Modul ASP MVC\Modul2\Asp_mvc_2\Asp_mvc_2\obj\Debug\Asp_mvc_2.csprojResolveAssemblyReference.cache
+E:\DESKTOP\sem2\Modul ASP MVC\Modul2\Asp_mvc_2\Asp_mvc_2\obj\Debug\Asp_mvc_2.dll
+E:\DESKTOP\sem2\Modul ASP MVC\Modul2\Asp_mvc_2\Asp_mvc_2\obj\Debug\Asp_mvc_2.pdb
+E:\DESKTOP\sem2\Modul ASP MVC\Modul2\Asp_mvc_2\Asp_mvc_2\bin\ApplicationInsights.config
+E:\DESKTOP\sem2\Modul ASP MVC\Modul2\Asp_mvc_2\Asp_mvc_2\bin\roslyn\csc.exe
+E:\DESKTOP\sem2\Modul ASP MVC\Modul2\Asp_mvc_2\Asp_mvc_2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DESKTOP\sem2\Modul ASP MVC\Modul2\Asp_mvc_2\Asp_mvc_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DESKTOP\sem2\Modul ASP MVC\Modul2\Asp_mvc_2\Asp_mvc_2\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DESKTOP\sem2\Modul ASP MVC\Modul2\Asp_mvc_2\Asp_mvc_2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DESKTOP\sem2\Modul ASP MVC\Modul2\Asp_mvc_2\Asp_mvc_2\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DESKTOP\sem2\Modul ASP MVC\Modul2\Asp_mvc_2\Asp_mvc_2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DESKTOP\sem2\Modul ASP MVC\Modul2\Asp_mvc_2\Asp_mvc_2\bin\roslyn\System.Collections.Immutable.dll
+E:\DESKTOP\sem2\Modul ASP MVC\Modul2\Asp_mvc_2\Asp_mvc_2\bin\roslyn\System.Reflection.Metadata.dll
+E:\DESKTOP\sem2\Modul ASP MVC\Modul2\Asp_mvc_2\Asp_mvc_2\bin\roslyn\vbc.exe
+E:\DESKTOP\sem2\Modul ASP MVC\Modul2\Asp_mvc_2\Asp_mvc_2\bin\roslyn\VBCSCompiler.exe
+E:\DESKTOP\sem2\Modul ASP MVC\Modul2\Asp_mvc_2\Asp_mvc_2\bin\roslyn\VBCSCompiler.exe.config
+E:\DESKTOP\sem2\Modul ASP MVC\Modul2\Asp_mvc_2\Asp_mvc_2\bin\Asp_mvc_2.dll.config
+E:\DESKTOP\sem2\Modul ASP MVC\Modul2\Asp_mvc_2\Asp_mvc_2\bin\Asp_mvc_2.dll
+E:\DESKTOP\sem2\Modul ASP MVC\Modul2\Asp_mvc_2\Asp_mvc_2\bin\Asp_mvc_2.pdb
+E:\DESKTOP\sem2\Modul ASP MVC\Modul2\Asp_mvc_2\Asp_mvc_2\bin\EntityFramework.dll
+E:\DESKTOP\sem2\Modul ASP MVC\Modul2\Asp_mvc_2\Asp_mvc_2\bin\EntityFramework.SqlServer.dll
+E:\DESKTOP\sem2\Modul ASP MVC\Modul2\Asp_mvc_2\Asp_mvc_2\bin\Microsoft.AI.Agent.Intercept.dll
+E:\DESKTOP\sem2\Modul ASP MVC\Modul2\Asp_mvc_2\Asp_mvc_2\bin\Microsoft.AI.DependencyCollector.dll
+E:\DESKTOP\sem2\Modul ASP MVC\Modul2\Asp_mvc_2\Asp_mvc_2\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\DESKTOP\sem2\Modul ASP MVC\Modul2\Asp_mvc_2\Asp_mvc_2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\DESKTOP\sem2\Modul ASP MVC\Modul2\Asp_mvc_2\Asp_mvc_2\bin\Microsoft.AI.Web.dll
+E:\DESKTOP\sem2\Modul ASP MVC\Modul2\Asp_mvc_2\Asp_mvc_2\bin\Microsoft.AI.WindowsServer.dll
+E:\DESKTOP\sem2\Modul ASP MVC\Modul2\Asp_mvc_2\Asp_mvc_2\bin\Microsoft.ApplicationInsights.dll
+E:\DESKTOP\sem2\Modul ASP MVC\Modul2\Asp_mvc_2\Asp_mvc_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DESKTOP\sem2\Modul ASP MVC\Modul2\Asp_mvc_2\Asp_mvc_2\bin\Microsoft.Web.Infrastructure.dll
+E:\DESKTOP\sem2\Modul ASP MVC\Modul2\Asp_mvc_2\Asp_mvc_2\bin\System.Web.Helpers.dll
+E:\DESKTOP\sem2\Modul ASP MVC\Modul2\Asp_mvc_2\Asp_mvc_2\bin\System.Web.Mvc.dll
+E:\DESKTOP\sem2\Modul ASP MVC\Modul2\Asp_mvc_2\Asp_mvc_2\bin\System.Web.Razor.dll
+E:\DESKTOP\sem2\Modul ASP MVC\Modul2\Asp_mvc_2\Asp_mvc_2\bin\System.Web.Webpages.Deployment.dll
+E:\DESKTOP\sem2\Modul ASP MVC\Modul2\Asp_mvc_2\Asp_mvc_2\bin\System.Web.Webpages.dll
+E:\DESKTOP\sem2\Modul ASP MVC\Modul2\Asp_mvc_2\Asp_mvc_2\bin\System.Web.Webpages.Razor.dll
+E:\DESKTOP\sem2\Modul ASP MVC\Modul2\Asp_mvc_2\Asp_mvc_2\bin\EntityFramework.xml
+E:\DESKTOP\sem2\Modul ASP MVC\Modul2\Asp_mvc_2\Asp_mvc_2\bin\EntityFramework.SqlServer.xml
+E:\DESKTOP\sem2\Modul ASP MVC\Modul2\Asp_mvc_2\Asp_mvc_2\bin\Microsoft.AI.DependencyCollector.xml
+E:\DESKTOP\sem2\Modul ASP MVC\Modul2\Asp_mvc_2\Asp_mvc_2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\DESKTOP\sem2\Modul ASP MVC\Modul2\Asp_mvc_2\Asp_mvc_2\bin\Microsoft.AI.Web.xml
+E:\DESKTOP\sem2\Modul ASP MVC\Modul2\Asp_mvc_2\Asp_mvc_2\bin\Microsoft.AI.WindowsServer.xml
+E:\DESKTOP\sem2\Modul ASP MVC\Modul2\Asp_mvc_2\Asp_mvc_2\bin\Microsoft.ApplicationInsights.xml
+E:\DESKTOP\sem2\Modul ASP MVC\Modul2\Asp_mvc_2\Asp_mvc_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DESKTOP\sem2\Modul ASP MVC\Modul2\Asp_mvc_2\Asp_mvc_2\bin\System.Web.Razor.xml
+E:\DESKTOP\sem2\Modul ASP MVC\Modul2\Asp_mvc_2\Asp_mvc_2\bin\System.Web.Webpages.xml
+E:\DESKTOP\sem2\Modul ASP MVC\Modul2\Asp_mvc_2\Asp_mvc_2\bin\System.Web.Webpages.Deployment.xml
+E:\DESKTOP\sem2\Modul ASP MVC\Modul2\Asp_mvc_2\Asp_mvc_2\bin\System.Web.Webpages.Razor.xml
+E:\DESKTOP\sem2\Modul ASP MVC\Modul2\Asp_mvc_2\Asp_mvc_2\bin\System.Web.Helpers.xml
+E:\DESKTOP\sem2\Modul ASP MVC\Modul2\Asp_mvc_2\Asp_mvc_2\bin\System.Web.Mvc.xml
