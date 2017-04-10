@@ -47,6 +47,10 @@ namespace Asp_mvc_2.Models.EntityManager
                 }
             }
         }
+
+
+
+
         public bool IsLoginNameExist(string loginName)
         {
             using (kopDBEntities db = new kopDBEntities())
