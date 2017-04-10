@@ -62,9 +62,6 @@ namespace Asp_mvc_2.Controllers
             return View(ULV);
         }
 
-
-
-
         [Authorize]
         public ActionResult SignOut()
         {
